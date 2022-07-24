@@ -34,9 +34,6 @@ class MainActivity : AppCompatActivity() {
         }
         handler.post(runnable)
 
-
-
-
     }
 
     fun stop(view: View){
